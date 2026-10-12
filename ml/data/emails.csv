@@ -1,0 +1,37 @@
+sender_email,subject,body,label
+notices@city-library.org,Library hours for the holiday,The reading rooms will close at 5 pm on Friday and reopen Monday morning. The event calendar is available on our city library website.,Legitimate
+maria@northwind.example,Notes from today's planning meeting,Thanks for joining the project discussion. I attached the agenda in the shared team workspace. Please send any corrections before Wednesday.,Legitimate
+billing@acme-supplies.example,Your April invoice is ready,Your monthly invoice is available in the customer portal you normally use. The amount due and payment date are listed on the statement.,Legitimate
+hr@company.example,Updated benefits enrollment dates,Open enrollment begins next month. Human Resources will host a question session in the office on Tuesday. No action is needed today.,Legitimate
+alerts@bank.example,Monthly account statement,Your monthly statement is ready in online banking. For your security we will never ask you to reply with a password or one time code.,Legitimate
+support@parcel.example,Delivery update for order 58210,Your parcel is in transit and the estimated delivery day is Thursday. You can review shipment progress in the order account you created.,Legitimate
+team@opensource.example,Release notes for version 4.2,The maintenance release includes documentation fixes and improved keyboard navigation. Upgrade instructions are in the project repository.,Legitimate
+newsletter@garden.example,Spring workshop schedule,Registration is open for the community garden workshops. The schedule includes seed starting and composting sessions at the neighborhood center.,Legitimate
+service@streaming.example,Your subscription renewal receipt,This is a receipt for the subscription renewal processed today. Manage billing from the account settings page in the app.,Legitimate
+professor@university.example,Seminar moved to room 204,The research seminar will meet in room 204 this week. The start time remains 2 pm. Please contact the department office with accessibility requests.,Legitimate
+receipts@shop.example,Order confirmation 71384,We received your order for two notebooks. The receipt is available in your account and the package estimate is five business days.,Legitimate
+it-help@company.example,Planned maintenance Saturday,The employee portal will be unavailable from 11 pm Saturday until 1 am Sunday for routine maintenance. No password reset is required.,Legitimate
+promo@outdoor-store.example,Weekend trail gear sale,Explore this weekend's seasonal discounts on hiking equipment. Browse our new catalog and use the store app if you want to shop.,Spam
+offers@dailydeals.example,You won a free coffee voucher,Sign up for our weekly offers to receive a promotional coffee voucher. This marketing email was sent to subscribers and you can unsubscribe in account settings.,Spam
+mail@coupon-club.example,Last chance for 20 percent off,Our seasonal coupon expires tonight. Shop the discounted collection while the promotion is active. Terms and exclusions apply.,Spam
+rewards@casino-promos.example,Exclusive bonus offer,Claim a limited promotional bonus when you join our entertainment newsletter. Offers are subject to eligibility and local regulations.,Spam
+updates@travel-bargains.example,Cheap flights to sunny destinations,Subscribe to receive deals on flights and hotels. This week's newsletter features discounts for selected routes and dates.,Spam
+news@beauty-box.example,Try our new skincare collection,Our latest skincare products are now available. Read customer reviews and browse bundle pricing in the online store.,Spam
+sales@office-clearance.example,Clearance sale on desk chairs,Save on selected office furniture during the warehouse clearance. Quantities vary and standard shipping fees apply.,Spam
+promo@food-box.example,Refer a friend and save,Invite friends to the meal kit service and both accounts may receive a promotional credit. See the offer conditions before enrolling.,Spam
+mailer@tech-discounts.example,Flash sale on wireless headphones,Today's product newsletter features headphones and accessories at promotional prices. Visit the retailer when convenient to browse the selection.,Spam
+subscribe@fitness-news.example,Your weekly fitness tips,This week's newsletter covers beginner stretching routines and local classes. Update your preferences if you no longer want these emails.,Spam
+promotions@pet-store.example,New toys for your pets,Discover new pet toys in our seasonal catalog. Subscribers can review product details and store hours online.,Spam
+deals@homegoods.example,Home essentials under twenty dollars,Browse discounted kitchen and storage goods in this week's retail circular. Delivery availability depends on your location.,Spam
+verify@paypaI-account-check.example,URGENT: verify your account immediately,Your PayPal account is suspended. Confirm your password and one time code at http://198.51.100.42/login within 24 hours or access will be removed.,Phishing
+security@micros0ft-login.example,Microsoft password expires today,Immediately verify your identity and enter your password at https://bit.ly/microsoft-secure to avoid account suspension.,Phishing
+billing@apple-id-review.example,Payment failed — action required,Your Apple account payment failed. Reply with your password and card details or verify your identity at https://apple-id-review.example/restore.,Phishing
+support@amaz0n-delivery.example,Package held: confirm details,Your Amazon delivery is on hold. Provide your bank details at http://192.0.2.88/parcel to release the shipment immediately.,Phishing
+notice@netflix-billing-alert.example,Netflix payment declined,Your Netflix membership will end today. Confirm your payment card at https://netflix-billing-alert.example/secure within 24 hours.,Phishing
+docusign@document-signing-review.example,Review confidential DocuSign file,You must review this document immediately. Sign in and enter your company password at https://tinyurl.com/doc-review to continue.,Phishing
+account@google-security-check.example,Unusual Google sign in detected,Your Google account is locked. Verify your password and one time code by replying to this email immediately.,Phishing
+chase-alert@chase-security-center.example,Chase account locked,Your Chase account access is suspended. Confirm your bank details now at https://chase-security-center.example/unlock to prevent permanent closure.,Phishing
+dropbox@shared-file-access.example,Shared Dropbox document,A confidential Dropbox document is waiting. Enter your email password at http://203.0.113.17/dropbox within 24 hours to view the file.,Phishing
+paypaI@payment-resolution.example,Refund pending for PayPal user,We could not issue the PayPal refund. Send your passcode and password by reply so our team can release the funds immediately.,Phishing
+microsoft-support@office365-verify.example,Mailbox quota exceeded,Your Microsoft mailbox is full and will be disabled today. Sign in at https://office365-verify.example/validate and provide your password.,Phishing
+finance@vendor-payment-update.example,Updated wire instructions,Our bank details have changed. Please urgently transfer the outstanding invoice to this new account and confirm the payment by email.,Phishing
